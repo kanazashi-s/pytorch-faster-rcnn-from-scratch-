@@ -1,0 +1,12 @@
+name: pytorch-faster-rcnn-from-scratch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - cookiecutter
+  - pytorch
+  - pytorch-lightning
+  - pandas
+  - matplotlib
+  - torchvision
+prefix: /Users/kanazashi-s/miniforge3/envs/pytorch-faster-rcnn-from-scratch
